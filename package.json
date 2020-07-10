@@ -1,0 +1,19 @@
+{
+  "name": "RobotInsta",
+  "version": "1.0.0",
+  "description": "Robotização da página do Instagram",
+  "main": "main.js",
+  "author": "Kaio F Prates",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "puppeteer": "^5.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "^2.0.5"
+  }
+}
